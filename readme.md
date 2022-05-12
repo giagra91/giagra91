@@ -24,6 +24,7 @@
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white).
 
+</br>
 
 <p><img width='600' src="https://github-readme-stats.vercel.app/api/top-langs?username=giagra91&show_icons=true&locale=en&layout=compact" alt="giagra91" /></p>
 <br />
