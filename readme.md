@@ -2,6 +2,7 @@
 - Languages I actually know are: HTML, CSS, JavaScript, PHP
 - Frameworks are: Bootstrap, Vue.js, Laravel
 - I also use Git and VScode for working
+- Contact me on giagra91@gmail.com
 
 **LANGUAGES:** 
 
