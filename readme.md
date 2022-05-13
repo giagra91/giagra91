@@ -1,12 +1,14 @@
 <h2> I'm Gianfranco Grande </h2>
 <p> Actually enjoing the web development world</p>
 </br>
-- I'm currently studing web development
-- Languages I actually know are: HTML, CSS, JavaScript, PHP
-- Frameworks are: Bootstrap, Vue.js, Laravel
-- I also use Git and VScode for working
-- Contact me on giagra91@gmail.com
-
+<ul>
+<li>I'm currently studing web development/li>
+<li>Languages I actually know are: HTML, CSS, JavaScript, PHP/li>
+<li>Frameworks are: Bootstrap, Vue.js, Laravel/li>
+<li>I also use Git and VScode for working/li>
+<li>Contact me on giagra91@gmail.com</li>
+</ul>
+ 
 **LANGUAGES:** 
 
 ![](https://img.shields.io/badge/HTML5-E34F262?style=for-the-badge&logo=Html5&logoColor=white)
