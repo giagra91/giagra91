@@ -1,6 +1,6 @@
 <h2> I'm Gianfranco Grande </h2>
 <p> Actually enjoing the web development world</p>
-</br>
+
 <ul>
 <li>I'm currently studing web development</li>
 <li>Languages I actually know are: HTML, CSS, JavaScript, PHP</li>
