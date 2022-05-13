@@ -2,10 +2,10 @@
 <p> Actually enjoing the web development world</p>
 </br>
 <ul>
-<li>I'm currently studing web development/li>
-<li>Languages I actually know are: HTML, CSS, JavaScript, PHP/li>
-<li>Frameworks are: Bootstrap, Vue.js, Laravel/li>
-<li>I also use Git and VScode for working/li>
+<li>I'm currently studing web development</li>
+<li>Languages I actually know are: HTML, CSS, JavaScript, PHP</li>
+<li>Frameworks are: Bootstrap, Vue.js, Laravel</li>
+<li>I also use Git and VScode for working</li>
 <li>Contact me on giagra91@gmail.com</li>
 </ul>
  
