@@ -1,3 +1,6 @@
+<h2> I'm Gianfranco Grande </h2>
+<p> Actually enjoing the web development world</p>
+</br>
 - I'm currently studing web development
 - Languages I actually know are: HTML, CSS, JavaScript, PHP
 - Frameworks are: Bootstrap, Vue.js, Laravel
