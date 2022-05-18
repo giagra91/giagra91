@@ -6,7 +6,7 @@
 <li>Languages I actually know are: HTML, CSS, JavaScript, PHP</li>
 <li>Frameworks are: Bootstrap, Vue.js, Laravel</li>
 <li>I also use Git and VScode for working</li>
- <li>Contact me on <a href="gmail.com">giagra91@gmail.com</a></li>
+ <li>Contact me on <a href="[gmail.com](https://mail.google.com/)">giagra91@gmail.com</a></li>
 </ul>
  
 **LANGUAGES, FRAMEWORKS AND TOOLS:** 
