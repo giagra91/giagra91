@@ -1,4 +1,4 @@
-<h2> I'm Gianfranco Grande </h2>
+<h2 align="center"> Hi 👋, I'm Gianfranco Grande </h2>
 <p> Actually enjoing the web development world</p>
 
 <ul>
