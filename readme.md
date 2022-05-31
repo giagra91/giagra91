@@ -2,7 +2,7 @@
 <p> Actually enjoing the web development world</p>
 
 <ul>
-<li>Currently studing web development and actually learning Typescript</li>
+<li>Currently studing web development and always searching for new languages</li>
 <li>Contact me on <a href="mailto:giagra91@gmail.com">giagra91@gmail.com</a></li>
 </ul>
  
