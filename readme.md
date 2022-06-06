@@ -3,7 +3,7 @@
 
 <ul>
 <li>Currently studing web development and always searching for new languages</li>
-<li>Contact me on <a href="mailto:gianfranco.grande.dev@gmail.com">giagra91@gmail.com</a></li>
+<li>Contact me on <a href="mailto:gianfranco.grande.dev@gmail.com">gianfranco.grande.dev@gmail.com</a></li>
 </ul>
  
 **LANGUAGES, FRAMEWORKS AND TOOLS:** 
