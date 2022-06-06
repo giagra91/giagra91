@@ -1,5 +1,5 @@
 <h2 align="center"> Hi 👋, I'm Gianfranco Grande, a jr. Full Stack Developer</h2>
-<p> Actually enjoing the web development world</p>
+<p> I'm a Jr. Full Stack Web Developer, really enjoing the web development world</p>
 
 <ul>
 <li>Currently studing web development and always searching for new languages</li>
