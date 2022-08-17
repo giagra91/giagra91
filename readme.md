@@ -6,7 +6,7 @@
 <li>Contact me on <a href="mailto:gianfranco.grande.dev@gmail.com">gianfranco.grande.dev@gmail.com</a></li>
 </ul>
  
-**LANGUAGES, FRAMEWORKS AND TOOLS:** src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+**LANGUAGES, FRAMEWORKS AND TOOLS:**
 
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
